@@ -1,18 +1,7 @@
-# React TypeScript Todo Application
+# React Todo Application
 
 A single-page To-Do application built with React and TypeScript. This application simulates interactions with a REST API by using mock data, demonstrating frontend skills including component design, state management, API integration, and user experience.
 
-## Features
-
-- **Todo List Display**: View a list of Todo items with title, description, and completion status
-- **Add New Todo**: Create new Todo items with a title and description
-- **Update Todo**: Edit existing Todo items
-- **Mark as Complete**: Toggle completion status of Todo items
-- **Delete Todo**: Remove Todo items from the list
-- **Mock API Integration**: Simulated API calls with artificial delays
-- **Loading States**: Visual indicators during "API" operations
-- **Error Handling**: Clear error messages when operations fail
-- **Responsive Design**: Works well on both desktop and mobile devices
 
 ## Technologies Used
 
@@ -25,8 +14,8 @@ A single-page To-Do application built with React and TypeScript. This applicatio
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/react-typescript-todo.git
-   cd react-typescript-todo
+   git clone https://github.com/SamuelMakoholi/todo-app.git
+   cd todo-app
    ```
 
 2. Install dependencies:
@@ -75,12 +64,5 @@ npm run build
 
 The build artifacts will be stored in the `dist/` directory.
 
-## Future Enhancements
 
-- User authentication
-- Categories/tags for todos
-- Due dates and reminders
-- Filtering and sorting options
-- Dark/light theme toggle
-- Persistent storage (localStorage or real backend)
 "# todo-app" 
